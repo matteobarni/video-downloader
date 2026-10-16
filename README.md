@@ -17,9 +17,9 @@
     <br />
     <a href="#usage">View Usage</a>
     ·
-    <a href="https://github.com/mbpitaly/video-downloader/issues/new?labels=bug&template=bug_report.md">Report Bug</a>
+    <a href="https://github.com/matteobarni/video-downloader/issues/new?labels=bug&template=bug_report.md">Report Bug</a>
     ·
-    <a href="https://github.com/mbpitaly/video-downloader/issues/new?labels=enhancement&template=feature_request.md">Request Feature</a>
+    <a href="https://github.com/matteobarni/video-downloader/issues/new?labels=enhancement&template=feature_request.md">Request Feature</a>
   </p>
 </div>
 
@@ -87,13 +87,13 @@ It was built by Matteo Barni (2026) to make downloading videos at the best avail
 
 **Option A — installer (Windows)**
 
-Download `MBPs_Video_Downloader_Setup.exe` from the [Releases](https://github.com/mbpitaly/video-downloader/releases) page and run it. The installer bundles **ffmpeg**, so best-quality downloads (video + audio merge) work out of the box.
+Download `MBPs_Video_Downloader_Setup.exe` from the [Releases](https://github.com/matteobarni/video-downloader/releases) page and run it. The installer bundles **ffmpeg**, so best-quality downloads (video + audio merge) work out of the box.
 
 **Option B — from source**
 
 ```sh
 # 1. Clone
-git clone https://github.com/mbpitaly/video-downloader.git
+git clone https://github.com/matteobarni/video-downloader.git
 cd video-downloader
 
 # 2. Install the only runtime dependency
@@ -176,7 +176,7 @@ Contributions are what make the open-source community such an amazing place. Any
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-Please use the [issue templates](https://github.com/mbpitaly/video-downloader/issues/new/choose) for bugs and feature requests, and check [CHANGELOG.md](CHANGELOG.md) before opening PRs.
+Please use the [issue templates](https://github.com/matteobarni/video-downloader/issues/new/choose) for bugs and feature requests, and check [CHANGELOG.md](CHANGELOG.md) before opening PRs.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
