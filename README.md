@@ -38,6 +38,7 @@
     <li><a href="#usage">Usage</a></li>
     <li><a href="#building-from-source">Building From Source</a></li>
     <li><a href="#project-layout">Project Layout</a></li>
+    <li><a href="#authors">Authors</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -49,7 +50,7 @@
 
 MBP's Video Downloader is a single-file tkinter GUI that wraps [yt-dlp](https://github.com/yt-dlp/yt-dlp) behind a clean, minimal interface. Paste a link, pick where to save, and download — no command line required.
 
-It was built by Matteo Barni (2026) to make downloading videos at the best available quality fast and effortless.
+It was built by Matteo Barni with Layla, his Internal AI Agent (2026), to make downloading videos at the best available quality fast and effortless.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -162,6 +163,16 @@ video-downloader/
 ├── LICENSE                     # MIT
 └── README.md
 ```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+## Authors
+
+- **Matteo Barni** ([@matteobarni](https://github.com/matteobarni)) — idea, design and direction: what the app does, how it looks, what ships.
+- **Layla** ([@layla-matteobarni](https://github.com/layla-matteobarni)) — Matteo's Internal AI Agent: writes, tests and maintains the code.
+
+From November 2026 every commit is authored by Layla and co-authored by Matteo, so the history shows both.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
